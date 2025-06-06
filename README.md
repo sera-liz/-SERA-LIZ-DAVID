@@ -7,7 +7,7 @@ I'm a Computer Science student, passionate about **Cybersecurity**, **Game Devel
 
 ## 📊 My Contribution Graph
 
-![Sera's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SERA-USERNAME&theme=merko&height=300)
+![Sera's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sera-liz&theme=merko&height=300)
 
 ---
 
