@@ -16,7 +16,7 @@ Hey there! I'm <a href="https://www.linkedin.com/in/sera-link">Sera</a> <img src
 
 ## 📊 Contribution Activity
 
-![Sera's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SERA-USERNAME&theme=merko&height=300)
+![Sera's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sera-liz&theme=merko&height=300)
 
 ---
 
@@ -62,19 +62,19 @@ Real-world data analytics using **Pandas**, **Matplotlib**, and **SciKit-Learn**
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SERA-USERNAME&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sera-liz&show_icons=true&theme=merko)
 
 ---
 
 ## 🌐 Languages I Use the Most
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SERA-USERNAME&layout=compact&theme=merko)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sera-liz&layout=compact&theme=merko)
 
 ---
 
 ## 🔥 My Current Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SERA-USERNAME&theme=merko)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sera-liz&theme=merko)
 
 ---
 
@@ -93,7 +93,7 @@ Real-world data analytics using **Pandas**, **Matplotlib**, and **SciKit-Learn**
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sera-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SERA-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sera-liz)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SERA-USERNAME&label=Profile%20views&color=blueviolet&style=flat" alt="SERA profile views" />
