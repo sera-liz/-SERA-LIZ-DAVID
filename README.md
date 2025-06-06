@@ -1,6 +1,6 @@
 # 🌌 Welcome to My Digital Space
 
-Hey there! I'm <a href="https://www.linkedin.com/in/sera-link">Sera</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> — a passionate Computer Science student, driven by curiosity and the thrill of building meaningful tech. Whether it's unraveling the world of **Cybersecurity**, designing engaging **User Interfaces**, or developing interactive **games**, I’m always exploring and learning.
+Hey there! I'm <a href="https://www.linkedin.com/in/sera-liz-david-6842a8327">Sera</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> — a passionate Computer Science student, driven by curiosity and the thrill of building meaningful tech. Whether it's unraveling the world of **Cybersecurity**, designing engaging **User Interfaces**, or developing interactive **games**, I’m always exploring and learning.
 
 ---
 
