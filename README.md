@@ -16,7 +16,8 @@ Hey there! I'm <a href="https://www.linkedin.com/in/sera-liz-david-6842a8327">Se
 
 
 ### 📊 GitHub Contribution Graph
-[![Sera's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sera-liz&theme=react-light)](https://github.com/sera-liz)
+[![Sera's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sera-liz&theme=react-light)](https://github.com/sera-liz)
+
 
 
 ---
