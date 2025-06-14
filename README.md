@@ -110,7 +110,7 @@ Solving real problems using **Pandas**, **Sklearn**, and visualization.
 <div align="center">
 
 🌼 **“She who dares, codes.”**  
-🌼 **“Girls belong in tech. Period.”**  
+  
 🌼 **“You don't need permission to build your dreams in code.”**
 
 </div>
