@@ -119,8 +119,7 @@ Solving real problems using **Pandas**, **Sklearn**, and visualization.
 
 <p align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/Xzy8ZYQkJ3iZyOvk22/giphy.gif" width="300"/>
+  
 </p>
 
 ---
